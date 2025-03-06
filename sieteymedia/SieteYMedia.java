@@ -115,7 +115,6 @@ import recursos.Carta;
             int i = 0;
             while (cartas[i] != null) {
                 interfaz.mostrarCartas(cartas[i]);
-//                System.out.print("\t" + cartas[i]);
                 i++;
             }
         }
